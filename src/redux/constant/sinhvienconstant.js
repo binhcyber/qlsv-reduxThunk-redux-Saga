@@ -1,0 +1,5 @@
+export const LAY_SINH_VIEN = "LAY_SINH_VIEN";
+export const EDIT_SINH_VIEN = "EDIT_SINH_VIEN";
+export const CHI_TIET_SINH_VIEN = "CHI_TIET_SINH_VIEN";
+export const CAP_NHAT_SINH_VIEN = "CAP_NHAT_SINH_VIEN";
+export const THEM_SINH_VIEN = "THEM_SINH_VIEN";

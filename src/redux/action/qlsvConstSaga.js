@@ -1,0 +1,6 @@
+export const SET_SINH_VIEN = "SET_SINH_VIEN";
+export const ADD_SINH_VIEN = "ADD_SINH_VIEN";
+export const DELETE_SINH_VIEN = "DELETE_SINH_VIEN";
+export const EDIT_SINH_VIEN = "SET_SINH_VIEN";
+export const UPDATE_SINH_VIEN = "UPDATE_SINH_VIEN";
+export const DETAIL_SINH_VIEN = "DETAIL_SINH_VIEN";
